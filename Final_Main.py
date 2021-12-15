@@ -1,7 +1,5 @@
 import Final_Finger
 import Final_Metronome
-#import Final_Tkinter
-#import Final_Pi
 
 while(True):
     Final_Finger.cameraActivate() #Open camera
